@@ -4,7 +4,7 @@
 //
 //  Created by 清水 翔太郎 on 2014/06/06.
 //  Copyright (c) 2014年 清水 翔太郎. All rights reserved.
-//
+//最優先
 
 #import <UIKit/UIKit.h>
 
@@ -20,7 +20,6 @@
 //-(IBAction)button:(id)sender;
 - (IBAction)tapCameraButton:(id)sender;
 -(IBAction)userDefaultDone:(id)sender;
-
 
 
 

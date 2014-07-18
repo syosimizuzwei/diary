@@ -6,6 +6,9 @@
 //  Copyright (c) 2014年 清水 翔太郎. All rights reserved.
 //
 
+
+//最優先
+
 #import "ViewController.h"
 #import <AssetsLibrary/AssetsLibrary.h>
 

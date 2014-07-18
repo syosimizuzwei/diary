@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		ED67307D19792FD90060B37C /* NewTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = ED67307C19792FD90060B37C /* NewTableViewController.m */; };
 		ED7B80BC194B1345002D0AEA /* RDVCalendarDayCell.m in Sources */ = {isa = PBXBuildFile; fileRef = ED7B80B7194B1345002D0AEA /* RDVCalendarDayCell.m */; };
 		ED7B80BD194B1345002D0AEA /* RDVCalendarView.m in Sources */ = {isa = PBXBuildFile; fileRef = ED7B80B9194B1345002D0AEA /* RDVCalendarView.m */; };
 		ED7B80BE194B1345002D0AEA /* RDVCalendarViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = ED7B80BB194B1345002D0AEA /* RDVCalendarViewController.m */; };
@@ -43,6 +44,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		ED67307B19792FD90060B37C /* NewTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = NewTableViewController.h; path = ../NewTableViewController.h; sourceTree = "<group>"; };
+		ED67307C19792FD90060B37C /* NewTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = NewTableViewController.m; path = ../NewTableViewController.m; sourceTree = "<group>"; };
 		ED7B80B6194B1345002D0AEA /* RDVCalendarDayCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RDVCalendarDayCell.h; sourceTree = "<group>"; };
 		ED7B80B7194B1345002D0AEA /* RDVCalendarDayCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RDVCalendarDayCell.m; sourceTree = "<group>"; };
 		ED7B80B8194B1345002D0AEA /* RDVCalendarView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RDVCalendarView.h; sourceTree = "<group>"; };
@@ -168,6 +171,8 @@
 				EDD759CF1941DAF5003286AA /* ViewController.m */,
 				EDE979C7196EAA4400D7E403 /* TableViewController.h */,
 				EDE979C8196EAA4400D7E403 /* TableViewController.m */,
+				ED67307B19792FD90060B37C /* NewTableViewController.h */,
+				ED67307C19792FD90060B37C /* NewTableViewController.m */,
 				EDD759D11941DAF5003286AA /* Images.xcassets */,
 				ED7B80B5194B1345002D0AEA /* RDVCalendarView */,
 				EDD759C01941DAF5003286AA /* Supporting Files */,
@@ -301,6 +306,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				ED67307D19792FD90060B37C /* NewTableViewController.m in Sources */,
 				EDE979C9196EAA4400D7E403 /* TableViewController.m in Sources */,
 				ED7B80C1194B1798002D0AEA /* TitleViewController.m in Sources */,
 				ED7B80BD194B1345002D0AEA /* RDVCalendarView.m in Sources */,
